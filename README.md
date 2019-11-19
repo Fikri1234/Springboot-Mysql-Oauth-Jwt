@@ -1,5 +1,8 @@
 # Springboot-Mysql-Oauth-Jwt
 
-file:///C:/Users/ATI-User/Desktop/Capture.PNG
+Go to /oauth/token
+Add to body
+![alt text](src/main/resources/Capture.PNG)
 
-![alt text](C:/Users/ATI-User/Desktop/Capture.PNG)
+Add to Authorization
+![alt text](src/main/resources/Capture1.PNG)
